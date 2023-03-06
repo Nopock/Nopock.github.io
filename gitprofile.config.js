@@ -25,7 +25,7 @@ const config = {
     telegram: 'Nopocks',
     website: 'https://nopock.github.io',
     phone: '',
-    email: 'nathan@weisz.org',
+    email: '',
   },
   resume: {
     fileUrl:
