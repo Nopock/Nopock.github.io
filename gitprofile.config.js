@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'nopock', // Your GitHub org/user name. (Required)
+    username: 'Nopock', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -13,7 +13,7 @@ const config = {
   social: {
     linkedin: '',
     twitter: 'RealRepation',
-    mastodon: 'a',
+    mastodon: '',
     facebook: '',
     instagram: '',
     dribbble: '',
